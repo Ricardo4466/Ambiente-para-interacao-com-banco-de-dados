@@ -1,4 +1,4 @@
-# Ambiente-para-interacao-com-banco-de-dados
+# Ambiente para interacao com banco de dados (Mysql)
 
 
 - O projeto determinado pelo professor é Criar uma Home Page, com o intuito de que o conteúdo do site será carregado através do Banco de Dados;
